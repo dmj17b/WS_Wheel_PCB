@@ -484,7 +484,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "grbr_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -596,6 +596,10 @@
     [
       "aa132a2e-0fcd-44d8-a6cb-d60744f9f280",
       "Root"
+    ],
+    [
+      "8eb22692-144b-4a83-8b74-dabf588b4160",
+      "WiringHarness"
     ]
   ],
   "text_variables": {}
