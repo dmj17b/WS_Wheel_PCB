@@ -3792,16 +3792,10 @@
 		(uuid "83e28753-3a14-439e-9b65-f679ee88cdb5")
 	)
 	(junction
-		(at 148.59 278.13)
+		(at 187.96 278.13)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "92bbb912-6d09-484b-86ea-20e986469200")
-	)
-	(junction
-		(at 140.97 267.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9afede74-c9a6-4976-a7a0-98c959cabb2c")
+		(uuid "b48f6faa-35e4-495c-8f2b-843de4e52da1")
 	)
 	(junction
 		(at 260.35 97.79)
@@ -3862,6 +3856,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb3f5fb2-ce82-4f43-ab26-b8cc921ba77e")
+	)
+	(junction
+		(at 176.53 267.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb87532c-e167-4170-a6a0-2d9cb387c382")
 	)
 	(wire
 		(pts
@@ -4002,6 +4002,16 @@
 			(type default)
 		)
 		(uuid "08676df2-4aae-48b2-95a9-c0de80daee71")
+	)
+	(wire
+		(pts
+			(xy 144.78 264.16) (xy 176.53 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08724e13-a666-4c10-bcc3-eed546f92618")
 	)
 	(wire
 		(pts
@@ -4555,6 +4565,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 267.97) (xy 172.72 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f4c8c47-5463-4675-8102-f00cf4fcdd7b")
+	)
+	(wire
+		(pts
 			(xy 123.19 102.87) (xy 120.65 102.87)
 		)
 		(stroke
@@ -4632,6 +4652,16 @@
 			(type default)
 		)
 		(uuid "34b98614-d8ee-42d7-bf45-7e44887729ea")
+	)
+	(wire
+		(pts
+			(xy 165.1 308.61) (xy 165.1 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "350103ff-4233-46ad-98db-1759dfbd0b4e")
 	)
 	(wire
 		(pts
@@ -4905,16 +4935,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 306.07) (xy 151.13 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4760e568-dd3a-4570-a30c-c2acc8a21b0a")
-	)
-	(wire
-		(pts
 			(xy 177.8 72.39) (xy 223.52 72.39)
 		)
 		(stroke
@@ -4922,16 +4942,6 @@
 			(type default)
 		)
 		(uuid "4872fd8b-5685-410b-a7a8-c666895ebc5e")
-	)
-	(wire
-		(pts
-			(xy 148.59 299.72) (xy 148.59 278.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "492497a0-00ec-4da8-87aa-a4f487e5a5f5")
 	)
 	(wire
 		(pts
@@ -5045,6 +5055,26 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 304.8) (xy 191.77 278.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4eec79a9-11f2-469c-88ce-6568808fb331")
+	)
+	(wire
+		(pts
+			(xy 152.4 308.61) (xy 165.1 308.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f208422-f5c4-42fe-a39e-8887d4f5a0a8")
+	)
+	(wire
+		(pts
 			(xy 241.3 123.19) (xy 260.35 123.19)
 		)
 		(stroke
@@ -5062,16 +5092,6 @@
 			(type default)
 		)
 		(uuid "505e41e1-7f7b-451c-bcce-6f7ef830fdb2")
-	)
-	(wire
-		(pts
-			(xy 148.59 278.13) (xy 157.48 278.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50ef78eb-b6aa-48a8-8dd0-db1ca4fcdaa2")
 	)
 	(wire
 		(pts
@@ -5235,6 +5255,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 264.16) (xy 176.53 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bb746dd-f6a9-46f9-8b54-972c0b07fa7b")
+	)
+	(wire
+		(pts
 			(xy 187.96 257.81) (xy 187.96 275.59)
 		)
 		(stroke
@@ -5262,16 +5292,6 @@
 			(type default)
 		)
 		(uuid "5cfb8206-615b-4103-bbf5-f8c6c90a1d92")
-	)
-	(wire
-		(pts
-			(xy 140.97 308.61) (xy 140.97 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f6e2e4b-45cf-40de-9dd9-8a255584e1d1")
 	)
 	(wire
 		(pts
@@ -5392,6 +5412,16 @@
 			(type default)
 		)
 		(uuid "66908dd4-4c24-4a72-ae50-93d591b0aefd")
+	)
+	(wire
+		(pts
+			(xy 191.77 278.13) (xy 187.96 278.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66ee292f-24a3-4f70-8850-dca6c57547c8")
 	)
 	(wire
 		(pts
@@ -5665,16 +5695,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 267.97) (xy 140.97 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c4391db-1d00-4e7e-88bf-364f269eb942")
-	)
-	(wire
-		(pts
 			(xy 198.12 50.8) (xy 198.12 52.07)
 		)
 		(stroke
@@ -5835,16 +5855,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 306.07) (xy 151.13 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8959c59a-eda9-4d00-9c86-46016cd5ff76")
-	)
-	(wire
-		(pts
 			(xy 100.33 287.02) (xy 78.74 287.02)
 		)
 		(stroke
@@ -5955,7 +5965,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 278.13) (xy 148.59 278.13)
+			(xy 133.35 278.13) (xy 157.48 278.13)
 		)
 		(stroke
 			(width 0)
@@ -6065,16 +6075,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 308.61) (xy 152.4 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9df5acb4-f8b8-4f91-8bae-91f5eb7d60f5")
-	)
-	(wire
-		(pts
 			(xy 184.15 62.23) (xy 128.27 62.23)
 		)
 		(stroke
@@ -6092,16 +6092,6 @@
 			(type default)
 		)
 		(uuid "9e8fd382-787d-413b-9a7e-14f068912bd5")
-	)
-	(wire
-		(pts
-			(xy 144.78 308.61) (xy 140.97 308.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f3adffc-3357-4998-b4c8-1374fb341280")
 	)
 	(wire
 		(pts
@@ -6312,16 +6302,6 @@
 			(type default)
 		)
 		(uuid "afd8e7a4-0ba4-49f7-aa47-6455eec38bc5")
-	)
-	(wire
-		(pts
-			(xy 151.13 299.72) (xy 148.59 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b052c881-ac7d-4e86-92d3-1b206f2f5de1")
 	)
 	(wire
 		(pts
@@ -6785,6 +6765,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 304.8) (xy 191.77 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb770b32-8a7c-46bc-be8d-0ab81e7bdc42")
+	)
+	(wire
+		(pts
 			(xy 153.67 41.91) (xy 54.61 41.91)
 		)
 		(stroke
@@ -7065,7 +7055,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 267.97) (xy 157.48 267.97)
+			(xy 54.61 267.97) (xy 157.48 267.97)
 		)
 		(stroke
 			(width 0)
@@ -7235,7 +7225,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 267.97) (xy 172.72 267.97)
+			(xy 180.34 267.97) (xy 176.53 267.97)
 		)
 		(stroke
 			(width 0)
@@ -7342,6 +7332,16 @@
 			(type default)
 		)
 		(uuid "f0a9e60b-ded7-4705-aa82-7276f38fadda")
+	)
+	(wire
+		(pts
+			(xy 144.78 308.61) (xy 144.78 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4456733-8d51-40e5-967f-f8f94f1c2321")
 	)
 	(wire
 		(pts
@@ -7532,6 +7532,16 @@
 			(type default)
 		)
 		(uuid "ffa87c7c-bc57-49b2-b549-f1f0bcc9f0dd")
+	)
+	(text "(Dual) Wheel Motor Driver"
+		(exclude_from_sim no)
+		(at 165.608 283.718 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "af896e9b-247f-4e44-9442-9c99cb65ab22")
 	)
 	(text "Wheel PCB Connector Output\n"
 		(exclude_from_sim no)
